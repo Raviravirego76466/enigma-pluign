@@ -1,0 +1,9 @@
+name: enigma-for-endlesscompression
+displayName: Enigma For Endlesscompression
+author: Raviravirego76466
+version: 1
+minGameVersion: 146
+dependencies: [
+enigma
+ec
+]
